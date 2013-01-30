@@ -1,7 +1,7 @@
 OS X Keybindings
 ================
 
-This is a set of useful keybindings for use with Mac OS X. It copies most of the default emacs keybindings and works around common problems encountered when keybinding will not map directly to its emacs counterpart because it conflicst with OS X defaults.
+This is a set of useful keybindings for use with Mac OS X. It copies most of the default emacs keybindings and works around common problems encountered when keybindings will not map directly to its emacs counterpart because it conflicst with OS X defaults.
 
 Enjoy!
 
