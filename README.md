@@ -9,7 +9,8 @@ To use these from this directory:
 
 <code>
 cp ~/Library/KeyBindings/DefaultKeyBinding.dict OriginalKeyBinding.dict
-
+</code>
+<code>
 cp DefaultKeyBinding.dict ~/Library/KeyBindings/DefaultKeyBinding.dict
 </code>
 
