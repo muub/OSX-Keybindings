@@ -19,3 +19,7 @@ To undo these:
 <code>
 cp ~/Library/KeyBindings/OriginalKeyBinding.dict DefaultKeyBinding.dict
 </code>
+
+
+A good reference:
+http://osxnotes.net/keybindings.html
